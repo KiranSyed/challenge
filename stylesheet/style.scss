@@ -1,7 +1,11 @@
-body{
-    background-color: rgb(193, 154, 154);
-}
 
+@import "./-variables";
+body{
+    background-color: $primaryBkgrnd;
+}
+.primary-btn{
+    background-color: $primaryBtn;
+}
 
 
 
